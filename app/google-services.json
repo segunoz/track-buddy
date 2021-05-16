@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "1079209055442",
-    "firebase_url": "https://famtrack-fbc50-default-rtdb.firebaseio.com",
-    "project_id": "famtrack-fbc50",
-    "storage_bucket": "famtrack-fbc50.appspot.com"
+    "project_number": "27240281870",
+    "firebase_url": "https://decagon-android-007-default-rtdb.firebaseio.com",
+    "project_id": "decagon-android-007",
+    "storage_bucket": "decagon-android-007.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1079209055442:android:bacd6aab78c1a7987e490b",
+        "mobilesdk_app_id": "1:27240281870:android:e667f4b757e8f28a0fc95f",
         "android_client_info": {
-          "package_name": "com.segun.trackfam"
+          "package_name": "com.decagon.android.sq007"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1079209055442-d5a1b2n4fuvfifcm1fisirqkbv9co94g.apps.googleusercontent.com",
+          "client_id": "27240281870-7i47l18qb3tdkn6ti08de1j7qtqomgse.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAQKZ2_iN-MEyq8xP1SFZbSdHYfP_aYTG8"
+          "current_key": "AIzaSyCdf1vlOFVyE1Alw4mDFv3c1cTqF2QCxL8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1079209055442-d5a1b2n4fuvfifcm1fisirqkbv9co94g.apps.googleusercontent.com",
+              "client_id": "27240281870-7i47l18qb3tdkn6ti08de1j7qtqomgse.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

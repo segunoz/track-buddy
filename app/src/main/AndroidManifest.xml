@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
-    package="com.segun.trackfam">
+    package="com.decagon.android.sq007">
+
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
          location permissions for the "MyLocation" functionality.
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-=======
-    package="com.decagon.android.sq007">
->>>>>>> Initial commit
 
     <application
         android:allowBackup="true"
@@ -18,15 +15,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-<<<<<<< HEAD
-        android:theme="@style/Theme.TrackFam">
-        <activity android:name=".WelcomeScreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        android:theme="@style/Theme.DecagonAndroid007">
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -40,13 +30,9 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".TrackActivity"
-            android:label="@string/title_activity_track" />
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps"></activity>
         <activity android:name=".MainActivity">
-=======
-        android:theme="@style/Theme.DecagonAndroid007">
-        <activity android:name="com.decagon.android.sq007.MainActivity">
->>>>>>> Initial commit
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
